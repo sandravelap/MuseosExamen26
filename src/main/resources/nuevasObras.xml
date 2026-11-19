@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo_obras>
+    <obra>
+        <titulo>El jardín de las delicias</titulo>
+        <anio_creacion>1500</anio_creacion>
+        <tecnica>Óleo sobre tabla de roble</tecnica>
+        <autor>
+            <nombre>Jheronimus</nombre>
+            <apellidos>Bosch</apellidos>
+        </autor>
+        <museo>
+            <nombre>Museo Nacional del Prado</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>La noche estrellada</titulo>
+        <anio_creacion>1889</anio_creacion>
+        <tecnica>Óleo sobre lienzo</tecnica>
+        <autor>
+            <nombre>Vincent</nombre>
+            <apellidos>van Gogh</apellidos>
+        </autor>
+        <museo>
+            <nombre>Museo de Arte Moderno (MoMA)</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>La libertad guiando al pueblo</titulo>
+        <anio_creacion>1830</anio_creacion>
+        <tecnica>Óleo sobre lienzo</tecnica>
+        <autor>
+            <nombre>Eugène</nombre>
+            <apellidos>Delacroix</apellidos>
+        </autor>
+        <museo>
+            <nombre>Museo del Louvre</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>Guernica</titulo>
+        <anio_creacion>1937</anio_creacion>
+        <tecnica>Óleo sobre lienzo</tecnica>
+        <autor>
+            <nombre>Pablo</nombre>
+            <apellidos>Picasso</apellidos>
+        </autor>
+        <museo>
+            <nombre>Museo Nacional Centro de Arte Reina Sofía</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>El nacimiento de Venus</titulo>
+        <anio_creacion>1485</anio_creacion>
+        <tecnica>Temple sobre lienzo</tecnica>
+        <autor>
+            <nombre>Sandro</nombre>
+            <apellidos>Botticelli</apellidos>
+        </autor>
+        <museo>
+            <nombre>Galería Uffizi</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>La joven de la perla</titulo>
+        <anio_creacion>1665</anio_creacion>
+        <tecnica>Óleo sobre lienzo</tecnica>
+        <autor>
+            <nombre>Johannes</nombre>
+            <apellidos>Vermeer</apellidos>
+        </autor>
+        <museo>
+            <nombre>Mauritshuis</nombre>
+        </museo>
+    </obra>
+
+    <obra>
+        <titulo>El tres de mayo de 1808 en Madrid</titulo>
+        <anio_creacion>1814</anio_creacion>
+        <tecnica>Óleo sobre lienzo</tecnica>
+        <autor>
+            <nombre>Francisco</nombre>
+            <apellidos>de Goya</apellidos>
+        </autor>
+        <museo>
+            <nombre>Museo Nacional del Prado</nombre>
+        </museo>
+    </obra>
+</catalogo_obras>
